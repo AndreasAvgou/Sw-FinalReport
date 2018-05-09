@@ -111,12 +111,12 @@ James R Lupton (104)
 H συγκεκριμένη εργασία δίνει την ευκαιρία στους φοιτητές να μάθουν και να εξοικειωθούν με τις γλώσσες **html**,**css**,**javascript** και πιο συγκεκριμένα με την βιβλιοθήκη **D3** της **javascript**. Επιπλέον, μπορούν να μαθαίνουν να δημιουργούν ιστοσελίδες με τη βοήθεια των **github pages**, καθώς και διαδικασίες του **github** (**fork** και **pull request**).
 
 ### Αναφορές
-https://www.tutorialspoint.com
+[https://www.tutorialspoint.com](https://www.tutorialspoint.com)
 
-https://www.w3schools.com
+[https://www.w3schools.com](https://www.w3schools.com)
 
-https://www.javascript.com
+[https://www.javascript.com](https://www.javascript.com)
 
-https://responsivevoice.org
+[https://responsivevoice.org](https://responsivevoice.org)
 
-http://tobiasahlin.com/moving-letters/
+[http://tobiasahlin.com/moving-letters](http://tobiasahlin.com/moving-letters)
