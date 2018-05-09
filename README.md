@@ -38,6 +38,10 @@
  a) [d3-uk-political-donations](https://github.com/ioniodi/D3js-uk-political-donations) 
  
  b) [Link κώδικα της κινούμενης εικόνας](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html)
+ 
+Παρακάτω αναγράφονται οι αλλαγές που ζητήθηκαν και υλοποιήθηκαν στα παραδοτέα 1 και 2
+
+### Παραδοτέο 1ο
 
 ### 1ο Μέρος
 
@@ -69,7 +73,7 @@
 
 [Merged pull-request](https://github.com/ioniodi/D3js-uk-political-donations/pull/25)
 
-## Εικόνες
+### Εικόνες
 
 May Makhzoumi (100)
 
@@ -81,14 +85,30 @@ Michael Davis (103)
 
 James R Lupton (104)
 
-## Αρχείο CSV
+### Αρχείο CSV
 2015115
 
-## Συμπέρασμα
+### Παραδοτέο 2ο
+
+### 1ο Μέρος
+
+Tροποποιήθηκε o κώδικας ώστε να εμφανίζεται αλλά και να επεκτείνεται δυναμικά η **σειρά** των εικόνων με τους **δωρητές** πάνω από τους οποίους πέρασε ο δείκτης του ποντικιού σας στο γράφημα. 
+
+![image](https://raw.githubusercontent.com/p15avgo/sw/master/projects/2015115/icons.gif)
+
+### 2ο Μέρος
+
+Τροποποιήθηκε ο κώδικας ώστε να εμφανίζονται τα στοιχεία μου στο λογαριασμό του **github** με **κίνηση**.
+Η θέση που δέσμευσα είναι "position#004".
+
+![move](https://raw.githubusercontent.com/p15avgo/sw/master/projects/2015115/name.gif)
+
+
+### Συμπέρασμα
 
 H συγκεκριμένη εργασία δίνει την ευκαιρία στους φοιτητές να μάθουν και να εξοικειωθούν με τις γλώσσες **html**,**css**,**javascript** και πιο συγκεκριμένα με την βιβλιοθήκη **D3** της **javascript**. Επιπλέον, μπορούν να μαθαίνουν να δημιουργούν ιστοσελίδες με τη βοήθεια των **github pages**, καθώς και διαδικασίες του **github** (**fork** και **pull request**).
 
-## Αναφορές
+### Αναφορές
 https://www.tutorialspoint.com
 
 https://www.w3schools.com
